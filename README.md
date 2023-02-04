@@ -4,6 +4,7 @@
 3. Source JLinkARM.dll yourself. Comes with version 190812.
 4. Download STLinkReflash.exe (Version 190812 tested). The version in this repository has been pre modified, but instructions are below if you want to do it yourself.
     Modify the following offsets in STLinkReflash.exe
+    
     2566 3C > 38
     
     2567 40 > C0
